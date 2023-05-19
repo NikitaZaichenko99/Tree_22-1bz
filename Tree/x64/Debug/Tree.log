@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\nikit\source\repos\Tree\Tree.cpp(160,9): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+C:\Users\nikit\source\repos\Tree\main.cpp(67,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\nikit\source\repos\Tree\main.cpp(69,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\nikit\source\repos\Tree\main.cpp(129,61): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\nikit\source\repos\Tree\main.cpp(129,49): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Tree.vcxproj -> C:\Users\nikit\source\repos\Tree\x64\Debug\Tree.exe
